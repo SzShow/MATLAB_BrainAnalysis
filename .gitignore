@@ -1,0 +1,15 @@
+#picture
+*.png
+#MATLAB
+*.fig
+*.mat
+
+#directory
+[Aa]rchive/
+[Ee]xamples/
+
+#Others
+*.dat
+*.hea
+*.atr
+*.xml
